@@ -4,26 +4,12 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
 
-## Features
+# SOftware Analytics Research (SOAR) Group
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+**School of Information Systems, Singapore Management University (SMU)**
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+Several research engineer/PhD student openings are available in our SOAR research group. Our group works on the application of machine learning, data mining, and information retrieval to help developers code faster, reliably, and securely. We are currently focusing on building effective tools by leveraging software big data that are available in GitHub, StackOverflow, and many other sources. We work closely with several international companies, e.g., Microsoft, Adobe, etc. to solve real industrial challenges. Based on publications in top-tier venues (ICSE, FSE, ASE), CSRankings put SMU at the top 11th position worldwide in the area of Software Engineering.
+
+Our research group has a track record of publishing at top conferences and journals in multiple areas, including software engineering (ICSE, FSE, ASE, TSE, TOSEM), and artificial intelligence (AAAI, IJCAI, KDD, JMLR). The candidates are expected to solve interesting research problems and publish at top conferences or journals. Multiple researchers from the group have successfully became engineers and data scientist at high-tech venues (including Microsoft, Canada; Schroder Investment Management, Luxembourg; Hudson River Trading, Singapore) and tenure-track faculty members at top universities (including University of Melbourne, Australia; Queen's University, Canada; and Monash University, Australia). Our group is diverse with past/current members of the group coming from, e.g., Indonesia, Singapore, China, India, Vietnam, Brazil, Canada, and France.
