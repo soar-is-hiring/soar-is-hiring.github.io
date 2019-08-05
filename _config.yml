@@ -9,10 +9,10 @@ name: SOAR
 author: SOAR
 
 # Short bio or description (displayed in the header)
-description: An elegant Jekyll theme
+description: SOftware Analytics Research (SOAR) Group
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /reverie/images/reverie.png
+avatar: /images/logo.png
 
 #
 # Flags below are optional
