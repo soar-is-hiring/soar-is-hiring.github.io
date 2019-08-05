@@ -4,8 +4,6 @@ title: We're hiring Research Engineer!
 categories: 
 ---
 
-# Research Engineer
-
 - A Bachelor in Computer Science or related areas (minimum upper second class honors or equivalent)
 - High proficiency in programming
 - Background in program analysis and data mining is a plus
