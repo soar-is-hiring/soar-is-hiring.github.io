@@ -11,7 +11,7 @@ categories:
 
 The initial contract is for 1 year (with possibility of extension). The salary range is SGD 45K - 60K per annum. Singapore's tax is around 3%-5% of the annual salary. Applicants will be reviewed on first-come-first-serve basis.
 
-Interested candidates should send their CV to Associate Professor David Lo (davidlo@smu.edu.sg) for more information.
+Interested candidates should send their CV to Associate Professor David Lo (davidlo[at]smu.edu.sg) for more information.
 
 You can find out more information about research that we do at:
 
